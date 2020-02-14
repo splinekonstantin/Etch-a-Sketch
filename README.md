@@ -1,4 +1,5 @@
 # Etch-a-Sketch
+
 Canvas based application for drawing. Made by following @wesbos's course 'Beginner Javascript'.
 
 Uses: **HTML5 canvas, CSS, JS**.
